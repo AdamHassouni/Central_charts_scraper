@@ -10,9 +10,9 @@ This repository contains two Python scripts for scraping stock data from Central
 - [Usage](#usage)
   - [NASDAQ Scraper](#nasdaq-scraper)
   - [Multi Scraper](#multi-scraper)
-- [Project Structure](#project-structure)
+
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Requirements
 - Python 3.x
@@ -76,8 +76,6 @@ The `multi_scraper.py` script scrapes multiple stock lists from Central Charts a
     python multi_scraper.py
     ```
 
-3. The script will scrape data from multiple stock lists and save the data to `all_stock_data.xlsx`.
+## Contributing
 
-## Project Structure
-
-The structure of the project is as follows:
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
